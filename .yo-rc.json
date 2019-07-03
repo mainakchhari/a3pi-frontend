@@ -1,0 +1,21 @@
+{
+  "generator-ngx-rocket": {
+    "version": "5.3.0",
+    "props": {
+      "location": "path",
+      "appName": "frontend",
+      "target": [
+        "web"
+      ],
+      "pwa": true,
+      "ui": "bootstrap",
+      "auth": true,
+      "lazy": false,
+      "angulartics": false,
+      "prettier": false,
+      "projectName": "frontend",
+      "packageManager": "npm",
+      "mobile": []
+    }
+  }
+}
